@@ -4,7 +4,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 ## Contents
 
-- [Strings](./src/strings)
-- [Linked Lists](./src/linkedlist)
-- [Leet75](./src/leet75)
+- [Strings](src/Strings)
+- [Linked Lists](src/linkedlist)
+- [Leet75](src/leet75)
   - Solutions to questions related to LeetCode's Top 75 frequently asked questions.
