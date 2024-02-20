@@ -1,5 +1,5 @@
 #Unique number of Occurance #Apple
-
+'''
 given an array of integer arr, return true if the number of occurence of each value in the arry is unique or false otherwise
 Input: [1,2,2,1,1,3] 
 output: true 
@@ -10,7 +10,7 @@ true
 
 [1,2] 
 false
-
+'''
 
 class Solution:
   def uniqueOccurences(self, arr:list):
